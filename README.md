@@ -20,7 +20,8 @@ is any “key” you choose that should be included in the documentation you
 provide.
 ```
 ## Architecture Diagram
-    ![diagram](./media/diagram.PNG "Tech Challenge Diagram")
+<img width="772" alt="diagram" src="https://user-images.githubusercontent.com/26462903/123736996-33af5f00-d870-11eb-80de-1f102fea483d.PNG">
+
 
 ## Repository Contents
 ```

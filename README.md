@@ -20,7 +20,7 @@ is any “key” you choose that should be included in the documentation you
 provide.
 ```
 ## Architecture Diagram
-![image](https://user-images.githubusercontent.com/26462903/123809955-08ecf700-d8c0-11eb-8094-675312423304.png)
+![image](https://user-images.githubusercontent.com/26462903/123811231-0fc83980-d8c1-11eb-821c-e2105fbf9c95.png)
 
 
 ## Repository Tree

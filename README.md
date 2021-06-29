@@ -28,13 +28,15 @@ provide.
 
 ├── README.md
 ├── docker-compose.yml
+├── media
+│   └── diagram.PNG
 ├── proxy
 │   ├── Dockerfile
 │   ├── certs
-│   │   ├── server.crt
-│   │   ├── server.csr
-│   │   ├── server.key
-│   │   └── server.pem
+│   │   ├── RootCA.crt
+│   │   ├── RootCA.key
+│   │   ├── RootCA.pem
+│   │   └── domains.ext
 │   ├── haproxy.cfg
 │   ├── haproxy_start.sh
 │   └── no-access.htm
